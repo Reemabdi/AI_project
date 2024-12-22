@@ -1,4 +1,4 @@
-AI-Driven Pathfinding with A* Algorithm
+#AI-Driven Pathfinding with A* Algorithm
 
 Overview
 This project implements the A* (A-star) algorithm to identify the most efficient path for a robot navigating a 100x100 grid, avoiding obstacles. The approach ensures optimal performance in terms of time and distance while accommodating barriers. The robot's movement is restricted to adjacent cells in eight possible directions.
