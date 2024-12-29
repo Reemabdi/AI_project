@@ -1,4 +1,4 @@
-# AI-Driven Pathfinding with A* Algorithm#
+# AI-Driven Pathfinding with A* Algorithm
 
 ## Overview
 This project implements the A* (A-star) algorithm to identify the most efficient path for a robot navigating a 100x100 grid, avoiding obstacles. The approach ensures optimal performance in terms of time and distance while accommodating barriers. The robot's movement is restricted to adjacent cells in eight possible directions.
@@ -12,8 +12,8 @@ Performance Analysis: Evaluates success rates, path costs, and computational tim
 # Installation
 Install newest version of [python](https://www.python.org/) 
 
-Run the algorithm:
-python astar.py
+
+Run the algorithm:    python astar.py
 
 
 ## Problem Formulation Initial State:
@@ -111,11 +111,13 @@ High Obstacle Densities (60-90%):
 
 The algorithm fails to find paths in most cases. The environment becomes too cluttered, significantly affecting performance.
 
-![olf](![image](https://github.com/user-attachments/assets/f1722088-04a5-47e7-af59-39787051fe49)
-)
+![alt text](https://github.com/Reemabdi/AI_project/blob/2947f119cade537b0861c63f0c926d230c9cfaf1/impo.pic.jpg)
 
 
-### Deployment 
+
+
+## Deployment 
 The A* algorithm was tested in a simulated small-scale environment, confirming its effectiveness at lower obstacle densities and identifying areas for improvement at higher densities.
 
-![alt text](image.jpg)
+![alt text](https://github.com/Reemabdi/AI_project/blob/2947f119cade537b0861c63f0c926d230c9cfaf1/path.img.jpg)
+
