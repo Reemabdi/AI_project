@@ -111,6 +111,11 @@ High Obstacle Densities (60-90%):
 
 The algorithm fails to find paths in most cases. The environment becomes too cluttered, significantly affecting performance.
 
-![alt hi](![image](https://github.com/user-attachments/assets/f1722088-04a5-47e7-af59-39787051fe49)
+![olf](![image](https://github.com/user-attachments/assets/f1722088-04a5-47e7-af59-39787051fe49)
 )
 
+
+### Deployment 
+The A* algorithm was tested in a simulated small-scale environment, confirming its effectiveness at lower obstacle densities and identifying areas for improvement at higher densities.
+
+![alt text](image.jpg)
